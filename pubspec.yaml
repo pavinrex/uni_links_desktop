@@ -15,7 +15,9 @@ dependencies:
   flutter:
     sdk: flutter
 
-  win32_registry: ^1.0.2
+  win32_registry: 
+    git:
+      url: https://github.com/pavinrex/win32_registry.git
 
 dev_dependencies:
   dependency_validator: ^3.0.0
